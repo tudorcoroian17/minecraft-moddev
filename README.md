@@ -2,7 +2,7 @@
 A Minecraft mod developed with FabricAPI
 
 # Table of contents <!-- omit in toc -->
-# - [Resources](#resources)
+ - [Resources](#resources)
 
 # Resources
 [FabricAPI documentation](#https://fabricmc.net/wiki/start#setup)
