@@ -1,4 +1,4 @@
-# minecraft-moddev <!-- omit in toc -->
+# Minecraft Mod Development <!-- omit in toc -->
 A Minecraft mod developed with FabricAPI
 
 # Table of contents <!-- omit in toc -->
