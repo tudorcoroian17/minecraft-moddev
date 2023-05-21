@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "metallicraft",
+  "version": "${version}",
+
+  "name": "Metallicraft Fabric Mod",
+  "description": "More Metals, More Fun!",
+  "authors": [
+    "Tudor Coroian",
+    "Andrei Fabian"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/metallicraft/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.tcoro.metallicraft.MetallicraftMod"
+    ]
+  },
+  "mixins": [
+    "metallicraft.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
