@@ -5,6 +5,6 @@ A Minecraft mod developed with FabricAPI
  - [Resources](#resources)
 
 # Resources
-[FabricAPI documentation](https://fabricmc.net/wiki/start#setup)
-[JDK](https://adoptium.net)
-[Trello board](https://trello.com/b/wSrpOa3t/metallicraft)
+ - [FabricAPI documentation](https://fabricmc.net/wiki/start#setup)
+ - [JDK](https://adoptium.net)
+ - [Trello board](https://trello.com/b/wSrpOa3t/metallicraft)
