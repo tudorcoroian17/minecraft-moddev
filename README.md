@@ -9,3 +9,4 @@ A Minecraft mod developed with FabricAPI
  - [JDK](https://adoptium.net)
  - [Trello board](https://trello.com/b/wSrpOa3t/metallicraft)
  - [Mixins](https://github.com/SpongePowered/Mixin/wiki) - complex topic
+ - [Third party APIs](https://fabricmc.net/wiki/tutorial:libraries)
