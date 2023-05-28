@@ -10,3 +10,4 @@ A Minecraft mod developed with FabricAPI
  - [Trello board](https://trello.com/b/wSrpOa3t/metallicraft)
  - [Mixins](https://github.com/SpongePowered/Mixin/wiki) - complex topic
  - [Third party APIs](https://fabricmc.net/wiki/tutorial:libraries)
+ - [Patchouli / Quilt](https://vazkiimods.github.io/Patchouli/docs/intro) - in-game documentation for the mod
